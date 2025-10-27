@@ -101,16 +101,8 @@
 
 </div>
 
-
-### **CONTRIBUTION HEAT MAP**
-
-<!-- 3D Contribution Calendar -->
-<img src="https://ghchart.rshah.org/58A6FF/DarguinBarbosa" alt="GitHub Contribution Chart" width="90%"/>
-
-<br><br>
-
 <!-- Detailed Metrics Grid -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DarguinBarbosa&theme=tokyonight" width="90%" alt="Contribution Details"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DarguinBarbosa" width="100%" alt="Contribution Details"/>
 
 </div>
 
