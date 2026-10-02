@@ -8,7 +8,7 @@
 
 <img width="100%" src="assets/profile.svg" alt="const darguin = { role: Systems Engineer, focus: Full Stack Development, basedIn: Colombia, openTo: Remote work, Freelance, Collaborations }"/>
 
-<br/><br/>
+<br/>
 
 <img width="100%" src="assets/title-stack.svg" alt="02 What I do"/>
 
