@@ -1,12 +1,10 @@
 <img width="100%" src="assets/header.svg" alt="Darguin Barbosa · Systems Engineer · Full Stack Developer"/>
 
-<br/>
 <img width="100%" src="assets/title-about.svg" alt="01 About me"/>
 
 <p>Systems Engineer focused on building scalable, enterprise-grade applications. I work across the stack: Angular and React on the frontend; Java/Spring Boot, Python/Django and Node.js/NestJS on the backend; deployed on GCP and AWS, with Power BI and Power Platform for business intelligence.</p>
 
 <img width="100%" src="assets/profile.svg" alt="const darguin = { role: Systems Engineer, focus: Full Stack Development, basedIn: Colombia, openTo: Remote work, Freelance, Collaborations }"/>
-
 
 <img width="100%" src="assets/title-stack.svg" alt="02 What I do"/>
 
@@ -41,8 +39,6 @@
 <img width="100%" src="assets/title-activity.svg" alt="03 Activity"/>
 
 <img width="100%" src="https://raw.githubusercontent.com/DarguinBarbosa/DarguinBarbosa/output/activity.svg" alt="Contribution grid"/>
-
-<br/><br/>
 
 <img width="100%" src="assets/footer.svg" alt=""/>
 
