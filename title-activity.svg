@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 80" width="1200" height="80">
+<style>text{font-family:ui-monospace,'SF Mono','JetBrains Mono',Menlo,Consolas,monospace}</style>
+<text x="0" y="46" font-size="26" font-weight="700" fill="#FF5F1F">03</text>
+<text x="56" y="46" font-size="26" fill="#F0F6FC" letter-spacing="6">ACTIVITY</text>
+<rect x="0" y="66" width="1200" height="1" fill="#30363D"/>
+<rect x="1116" y="28" width="16" height="16" rx="2" fill="#7A2E12"/>
+<rect x="1140" y="28" width="16" height="16" rx="2" fill="#C24515"/>
+<rect x="1164" y="28" width="16" height="16" rx="2" fill="#FF5F1F"/>
+</svg>
